@@ -9,7 +9,7 @@
   "repository": "https://github.com/lichtcui/licht-compile.git",
   "author": "licht <lichtcui@gmai.com>",
   "license": "MIT",
-  "main": "bin/index.js",
+  "main": "lib/index.js",
   "bin": "bin/licht-compile.js",
   "files": [
     "lib",
