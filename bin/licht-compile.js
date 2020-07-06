@@ -1,12 +1,4 @@
 #!/usr/bin/env node
-
-// mac 需要权限
-// chmod 755 licht-pages.js
-
-// 重新 link
-// yarn unlink
-// yarn link
-
 process.argv.push("--cwd");
 process.argv.push(process.cwd());
 process.argv.push("--gulpfile");
