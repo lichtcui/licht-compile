@@ -6,17 +6,17 @@
     "licht-compile",
     "licht"
   ],
-  "main": "bin/index.js",
-  "bin": "bin/licht-compile.js",
   "repository": "https://github.com/lichtcui/licht-compile.git",
   "author": "licht <lichtcui@gmai.com>",
   "license": "MIT",
+  "main": "bin/index.js",
+  "bin": "bin/licht-compile.js",
   "files": [
-    "lib"
+    "lib",
+    "bin"
   ],
   "directories": {
-    "lib": "lib",
-    "bin": "bin"
+    "lib": "lib"
   },
   "engines": {
     "node": ">=6"
